@@ -33,7 +33,7 @@ A simple command-line **Student Manager Application** built using **Python**. Th
 
 ### Student Result Output
 
-![Student Result Output](student_result2.png)
+![Student Result Output](student_result.png2)
 
 ---
 
